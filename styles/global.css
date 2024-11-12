@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+
+
+body {
+    max-width: 1920px;
+    font-family: 'Poppins', 'Roboto', serif;
+    
+    /* background-color:rgb(47, 59, 39); */
+    margin: 0 auto;
+}
+
